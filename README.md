@@ -1,2 +1,2 @@
-# Student-Management-System
-student management system using python tkinter
+# Inventory-Management-System
+Inventory management system using python tkinter
